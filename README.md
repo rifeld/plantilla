@@ -17,10 +17,9 @@ Los plugins registrados de grun son los siguientes:
 - uncss
 
 Las librerías instaladas por defecto con Bower son las sisguentes:
-- Jquery
-- Require
-- RSVP
+-Jquery
+-Require
+-RSVP
 
-  ** Links **
-  [Grunt]:http://gruntjs.com/
-  [Bower]:http://bower.io/
+[Grunt]:http://gruntjs.com/
+[Bower]:http://bower.io/
