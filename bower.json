@@ -1,0 +1,27 @@
+{
+  "name": "plantilla",
+  "version": "0.0.0",
+  "authors": [
+    "pquintanilla"
+  ],
+  "description": "plantilla de inicio",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "rsvp": "~3.0.18",
+    "requirejs": "~2.1.18"
+  },
+  "dir": {
+    "css_d": "dist/css",
+    "css_s": "src/css",
+    "js_d": "dist/js",
+    "js_s": "src/js"
+  }
+}
